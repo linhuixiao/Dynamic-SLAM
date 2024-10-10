@@ -34,16 +34,41 @@
 
 **<p align="center"> Dynamic-SLAM Framework.  </p>**
 
-This repository is the official Pytorch implementation for the paper [**Dynamic-SLAM: Semantic Monocular Visual Localization and Mapping Based on Deep Learning in Dynamic Environment**](https://www.sciencedirect.com/science/article/abs/pii/S0921889018308029). 
+<p align="center"> <img src='docs/KITTI.jpg' align="center" width="100%"> </p>
+
+**<p align="center"> KITTI Datasets Localization Results (APE and Trajectory).  </p>**
+
+<p align="center"> <img src='docs/KITTI2.jpg' align="center" width="100%"> </p>
+
+**<p align="center"> KITTI Datasets Localization Results (Real Time).  </p>**
+
+
+This repository is the official C++ implementation for the paper [**Dynamic-SLAM: Semantic Monocular Visual Localization and Mapping Based on Deep Learning in Dynamic Environment**](https://www.sciencedirect.com/science/article/abs/pii/S0921889018308029). 
 
 If you have any questions, please feel free to open an issue or contact me with emails: <xiaolinhui16@mails.ucas.ac.cn>.
 
 <h3 align="left">
-Links: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921889018308029">Robotics and Autonomous Systems (RAS 2019)</a>,   
+Links: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921889018308029">ELSEVIER Robotics and Autonomous Systems (RAS 2019)</a>,   
 <a href="https://www.researchgate.net/profile/Linhui-Xiao/publication/332149941_Dynamic-SLAM_Semantic_monocular_visual_localization_and_mapping_based_on_deep_learning_in_dynamic_environment/links/6013f1fa45851517ef22eb7d/Dynamic-SLAM-Semantic-monocular-visual-localization-and-mapping-based-on-deep-learning-in-dynamic-environment.pdf">Researchgate</a>,
 </h3>
 
 **Please leave a <font color='orange'>STAR ⭐</font> if you like this project!**
+
+
+If you find our work helpful for your research, please consider citing the following BibTeX entry.   
+
+```bibtex
+@article{xiao2019dynamic,
+  title={Dynamic-SLAM: Semantic monocular visual localization and mapping based on deep learning in dynamic environment},
+  author={Xiao, Linhui and Wang, Jinge and Qiu, Xiaosong and Rong, Zheng and Zou, Xudong},
+  journal={Robotics and Autonomous Systems},
+  volume={117},
+  pages={1--16},
+  year={2019},
+  publisher={Elsevier}
+}
+```
+
 
 
 **Dynamic-SLAM is a project developed based on ORB-SLAM2, and its environment and operation are exactly the same as ORB-SLAM2. 
