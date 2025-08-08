@@ -22,7 +22,7 @@
       <img src='https://img.shields.io/badge/RAS 2019-yellow' alt='arXiv PDF'>
     </a>
     <a href='docs/IRCE_2018_Poster_Paper_ID_CE1002-A.pdf'>
-      <img src='https://img.shields.io/badge/IEEE IRCE 2018 Poster-blue' alt='arXiv PDF'>
+      <img src='https://img.shields.io/badge/IEEE IRCE 2018 Best Oral-blue' alt='arXiv PDF'>
     </a>
 
 <br />
